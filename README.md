@@ -16,4 +16,4 @@
 
 ![image-20220524212138315](http://img.chiza.xyz/image-20220524212138315.png)
 
-**注:** 扫描结果也会存在scan_result.txt文件当中
+**注:** 扫描结果存放在scan_result.txt文件中
