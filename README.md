@@ -1,5 +1,5 @@
 # sqlmap-api
-我们实现了一个代码的批量化，我们将收集的url保存在url.txt文件中，这样我们就可以一键检测是否存在注入了（扫描结果也会存在scan_result.txt文件当中）
+利用python3编写sqlmapapi的调用脚本，可以实现对SQL注入的批量化检测
 **实际测试效果：**
 
 这里我找了一个真实案例和sql-labs靶场进行测试
@@ -16,3 +16,4 @@
 
 ![image-20220524212138315](http://img.chiza.xyz/image-20220524212138315.png)
 
+**注:** 扫描结果也会存在scan_result.txt文件当中
